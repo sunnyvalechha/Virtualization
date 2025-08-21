@@ -24,5 +24,5 @@ Note: Esxi is the name of the hypervisor of Vmware
  * OVA - Open virtual appliance
  * OVF - Open virtual format
  * OVA/OVF both are pre-packaged virtual machines that are given to you by different vendors or maybe vmware.
-
+ * Vmotion: live migration of virtual machines it allows you to move an entire running virtual machine from one physical server to another with no downtime.
  * 
